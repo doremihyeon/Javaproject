@@ -4,9 +4,9 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-public class STEP_10_GUI_2 {
-    public static void main(String[] args) {
-        class clickListener implements ActionListener {
+                public class STEP_10_GUI_2 {
+                    public static void main(String[] args) {
+                        class clickListener implements ActionListener {
             JTextField txt;
             int nc = 0;
 
