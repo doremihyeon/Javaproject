@@ -9,6 +9,6 @@ public class H1_GUI_1 {
 
         JPanel panel = new JPanel();
         panel.setBackground(Color.BLUE);
-        
+
     }
 }
